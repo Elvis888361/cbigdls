@@ -32,7 +32,7 @@ import Counters from "pages/Presentation/sections/Counters";
 import Information from "pages/Presentation/sections/Information";
 import Testimonials from "pages/Presentation/sections/Testimonials";
 import Download from "pages/Presentation/sections/Download";
-
+import "pages/Presentation/index2.css";
 // Routes
 import routes from "routes";
 import footerRoutes from "footer.routes";
@@ -144,6 +144,14 @@ function Presentation() {
       <MKBox pt={6} px={1} mt={6}>
         <DefaultFooter content={footerRoutes} />
       </MKBox>
+      <a
+        href="https://wa.me/245793018396"
+        className="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i className="fa fa-whatsapp whatsapp-icon"></i>
+      </a>
     </>
   );
 }

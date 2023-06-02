@@ -89,19 +89,30 @@ function ContactUs() {
                 info@cbigdl.com or contact using our social platforms.
               </MKTypography>
               <MKBox display="flex" justifyContent="center" alignItems="center">
-                <MKTypography component="a" variant="body1" href="#" mr={3}>
-                  <i className="fab fa-facebook" />
+                <MKTypography component="a" variant="body1" href="https://www.linkedin.com/company/cbigdl/" mr={3}>
+                <i className="fa fa-linkedin" aria-hidden="true"></i>
                 </MKTypography>
-                <MKTypography component="a" variant="body1" href="#" mr={3}>
-                  <i className="fab fa-instagram" />
-                </MKTypography>
-                <MKTypography component="a" variant="body1" href="#" mr={3}>
+                <MKTypography component="a" variant="body1" href="https://twitter.com/tha_legends?t=Cfp2nmALQg0TTFaYb9467g&s=09" mr={3}>
                   <i className="fab fa-twitter" />
                 </MKTypography>
-                <MKTypography component="a" variant="body1" href="#">
-                  <i className="fab fa-google-plus" />
-                </MKTypography>
               </MKBox>
+              <i className="fa fa-phone" aria-hidden="true">+254790296707</i><br/>
+                <i className="fa fa-phone" aria-hidden="true">+254796456810</i><br/>
+                <p>Chat with us</p>
+                <a
+                  href="https://wa.me/245793018396"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fa fa-whatsapp whatsapp-icon">+254793018396</i>
+                </a><br/>
+                <a
+                  href="https://wa.me/245757778819"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fa fa-whatsapp whatsapp-icon">+254757778819</i>
+                </a>
             </MKBox>
           </MKBox>
         </Grid>

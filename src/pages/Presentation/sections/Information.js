@@ -47,12 +47,12 @@ function Information() {
                     with Cbigdl limited
                   </>
                 }
-                description="All the MUI components that you need in a development have been re-design with the new look."
+                description="CBIGDL Limited is a company that specializes in creating ERPNext solutions. With expertise in ERP implementation and customization, CBIGDL Limited focuses on delivering comprehensive ERP solutions based on the powerful ERPNext platform."
               />
               <RotatingCardBack
                 image={bgBack}
                 title="Read More"
-                description="You will save a lot of time going from prototyping to full-functional code because all elements are implemented."
+                description="CBIGDL Limited understands the unique business requirements of its clients and tailors ERPNext to meet their specific needs. The company's team of experienced professionals collaborates closely with clients to analyze their business processes, identify areas for improvement, and design and implement ERP solutions that streamline operations and drive efficiency."
                 action={{
                   type: "internal",
                   route: "/sections/page-sections/",
@@ -91,8 +91,25 @@ function Information() {
                 <DefaultInfoCard
                   icon="devices"
                   title="Contact Us"
-                  description="Reach to us you will never want to leave."
+                  description="Reach to us you will never want to leave.contact numbers"
                 />
+                <i className="fa fa-phone" aria-hidden="true">+254790296707</i>
+                <i className="fa fa-phone" aria-hidden="true">+254796456810</i>
+                <p>Chat with us</p>
+                <a
+                  href="https://wa.me/245793018396"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fa fa-whatsapp whatsapp-icon">+254793018396</i>
+                </a>
+                <a
+                  href="https://wa.me/245757778819"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fa fa-whatsapp whatsapp-icon">+254757778819</i>
+                </a>
               </Grid>
             </Grid>
           </Grid>

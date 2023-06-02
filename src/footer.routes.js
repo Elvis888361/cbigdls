@@ -7,7 +7,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import MKTypography from "components/MKTypography";
 
 // Images
-import logoCT from "assets/images/logo-ct-dark.png";
+import logoCT from "assets/images/five.jpg";
 
 const date = new Date().getFullYear();
 
@@ -33,7 +33,7 @@ export default {
   ],
   menus: [
     {
-      name: "About Upeosoft Limited",
+      name: "About CBIGDL Limited",
       items: [
         { name: "about us", href: "" },
         { name: "freebies", href: "" },
