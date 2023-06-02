@@ -145,7 +145,7 @@ function Presentation() {
         <DefaultFooter content={footerRoutes} />
       </MKBox>
       <a
-        href="https://wa.me/245793018396"
+        href="https://wa.me/254793018396"
         className="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"

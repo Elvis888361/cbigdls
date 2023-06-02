@@ -100,14 +100,14 @@ function ContactUs() {
                 <i className="fa fa-phone" aria-hidden="true">+254796456810</i><br/>
                 <p>Chat with us</p>
                 <a
-                  href="https://wa.me/245793018396"
+                  href="https://wa.me/254793018396"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <i className="fa fa-whatsapp whatsapp-icon">+254793018396</i>
                 </a><br/>
                 <a
-                  href="https://wa.me/245757778819"
+                  href="https://wa.me/254757778819"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
