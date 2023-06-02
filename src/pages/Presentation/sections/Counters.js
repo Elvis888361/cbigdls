@@ -31,7 +31,7 @@ function Counters() {
         <Grid container item xs={12} lg={9} sx={{ mx: "auto" }}>
           <Grid item xs={12} md={4}>
             <DefaultCounterCard
-              count={700}
+              count={70}
               suffix="+"
               title="Project Done"
               description="From erp system to basic websites"
@@ -40,7 +40,7 @@ function Counters() {
           <Grid item xs={12} md={4} display="flex">
             <Divider orientation="vertical" sx={{ display: { xs: "none", md: "block" }, mx: 0 }} />
             <DefaultCounterCard
-              count={150}
+              count={15}
               suffix="+"
               title="Design Projects"
               description="Use of Modern tools to design modern systems."
@@ -49,7 +49,7 @@ function Counters() {
           </Grid>
           <Grid item xs={12} md={4}>
             <DefaultCounterCard
-              count={400}
+              count={40}
               title="Growth"
               description="The company is expected to grow at a high rate"
             />

@@ -44,7 +44,7 @@ function Information() {
                   <>
                     Get Started
                     <br />
-                    with Cbigdl limited
+                    with CBIGDL LIMITED
                   </>
                 }
                 description="CBIGDL Limited is a company that specializes in creating ERPNext solutions. With expertise in ERP implementation and customization, CBIGDL Limited focuses on delivering comprehensive ERP solutions based on the powerful ERPNext platform."
