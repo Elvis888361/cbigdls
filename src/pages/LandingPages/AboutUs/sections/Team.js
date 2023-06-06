@@ -90,7 +90,7 @@ function Team() {
             <MKBox mb={{ xs: 1, lg: 0 }}>
               <HorizontalTeamCard
                 image={team5}
-                name="Elvis Ndegwa"
+                name="Stephen Nganga"
                 position={{ color: "info", label: "Software Developer" }}
                 description="A Software Developer at CBIGDL Limited is a highly skilled professional responsible for designing, developing, and maintaining software applications for the company. They play a crucial role in the software development lifecycle, working closely with teams to understand business requirements "
               />
@@ -110,7 +110,7 @@ function Team() {
             <MKBox mb={{ xs: 1, lg: 0 }}>
               <HorizontalTeamCard
                 image={team6}
-                name="Elvis Ndegwa"
+                name="Kevin Kuria"
                 position={{ color: "info", label: "Software Developer" }}
                 description="Software Developer at CBIGDL Limited is a vital member of the software development team, contributing to the creation of robust, scalable, and high-quality software applications that meet the company's business needs."
               />
