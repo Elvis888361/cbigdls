@@ -29,6 +29,8 @@ import team1 from "assets/images/one.jpg";
 import team2 from "assets/images/two.jpg";
 import team3 from "assets/images/three.JPG";
 import team4 from "assets/images/four.jpg";
+import team5 from "assets/images/eight.jpeg";
+import team6 from "assets/images/nine.jpg";
 
 function Team() {
   return (
@@ -87,10 +89,30 @@ function Team() {
           <Grid item xs={12} lg={6}>
             <MKBox mb={{ xs: 1, lg: 0 }}>
               <HorizontalTeamCard
+                image={team5}
+                name="Elvis Ndegwa"
+                position={{ color: "info", label: "Software Developer" }}
+                description="A Software Developer at CBIGDL Limited is a highly skilled professional responsible for designing, developing, and maintaining software applications for the company. They play a crucial role in the software development lifecycle, working closely with teams to understand business requirements "
+              />
+            </MKBox>
+          </Grid>
+          <Grid item xs={12} lg={6}>
+            <MKBox mb={{ xs: 1, lg: 0 }}>
+              <HorizontalTeamCard
                 image={team4}
                 name="Elvis Ndegwa"
                 position={{ color: "info", label: "Software Developer" }}
                 description="A Software Developer at CBIGDL Limited is a skilled professional who combines creativity and technical expertise to design and develop innovative software solutions that drive business growth. "
+              />
+            </MKBox>
+          </Grid>
+          <Grid item xs={12} lg={6}>
+            <MKBox mb={{ xs: 1, lg: 0 }}>
+              <HorizontalTeamCard
+                image={team6}
+                name="Elvis Ndegwa"
+                position={{ color: "info", label: "Software Developer" }}
+                description="Software Developer at CBIGDL Limited is a vital member of the software development team, contributing to the creation of robust, scalable, and high-quality software applications that meet the company's business needs."
               />
             </MKBox>
           </Grid>
